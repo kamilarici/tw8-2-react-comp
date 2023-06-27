@@ -13,9 +13,9 @@ body {
   background: rgb(2, 0, 36);
   background: linear-gradient(
     90deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(121, 9, 83, 1) 35%,
-    rgba(0, 212, 255, 1) 100%
+    rgb(130, 86, 61) 0%,
+    rgb(225, 84, 162) 35%,
+    rgb(77, 107, 96) 100%
   );
   min-height: 100vh;
   color: white;
@@ -27,7 +27,7 @@ code {
 }
 
 .nav {
-  background-color: rgb(244, 164, 96, 0.5);
+  background-color: rgba(81, 227, 103, 0.5);
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -49,7 +49,7 @@ main {
   flex-wrap: wrap;
   padding: 1.5rem 2rem;
   border-radius: 1rem;
-  background-color: rgba(223, 121, 121, 0.2);
+  background-color: rgba(181, 98, 39, 0.2);
 }
 .lesson_lesson {
   display: flex;
@@ -60,8 +60,8 @@ main {
   align-items: center;
 }
 .lesson_lesson img {
-  width: 85px;
-  height: 85px;
+  width: 150px;
+  height: 150px;
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
@@ -78,4 +78,9 @@ main {
   margin-bottom: 0;
   font-size: 1rem;
   color: azure;
+}
+
+img {
+  width: 100px;
+  height: 100px;
 }

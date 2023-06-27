@@ -12,11 +12,11 @@ const Cards = () => {
             </div>
             <div className="lesson_text">
               <p className="lesson_parag">
-                <span className="lesson_span">Lesson Name :</span>
+                <span className="lesson_span">Kedinin ADI:</span>
                 {name}
               </p>
               <p className="lesson_parag">
-                <span className="lesson_span">Lesson Hour :</span>
+                <span className="lesson_span">Kac Aylik:</span>
                 {hour}
               </p>
             </div>

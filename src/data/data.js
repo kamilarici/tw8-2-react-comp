@@ -1,44 +1,39 @@
-export const data= [
+export const data = [
   {
     id: 1,
-    name: 'HTML',
-    hour: "10:00 am",
-    image:
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU',
+    name: "ZEUS",
+    hour: "25",
+    image: "https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720_640.jpg",
   },
   {
     id: 2,
-    name: 'CSS',
-    hour:" 11:15 am",
+    name: "ARES",
+    hour: " 3",
     image:
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png',
+      "https://cdn.pixabay.com/photo/2017/11/14/13/06/kitty-2948404_640.jpg",
   },
   {
     id: 3,
-    name: 'JAVASCRIPT',
-    hour: "13:00 pm",
-    image:
-      'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png',
+    name: "LOLA",
+    hour: "18",
+    image: "https://cdn.pixabay.com/photo/2017/03/14/14/49/cat-2143332_640.jpg",
   },
   {
     id: 4,
-    name: 'REACT',
-    hour: "14:15 pm",
-    image:
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png',
+    name: "BİLLY",
+    hour: "19",
+    image: "https://cdn.pixabay.com/photo/2015/11/16/22/14/cat-1046544_640.jpg",
   },
   {
     id: 5,
-    name: 'BOOTSTRAP',
-    hour: "16:15 pm",
-    image:
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png',
+    name: "LUKY",
+    hour: "2",
+    image: "https://cdn.pixabay.com/photo/2018/03/27/17/25/cat-3266673_640.jpg",
   },
   {
     id: 6,
-    name: 'MUI',
-    hour: "16:15 pm",
-    image:
-      'https://mui.com/static/logo.png',
+    name: "NERO",
+    hour: "12",
+    image: "https://cdn.pixabay.com/photo/2018/04/20/17/18/cat-3336579_640.jpg",
   },
 ];
